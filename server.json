@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/69/35/1a/lanches-e-porcoes.jpg",
+      "name": "Lanche Tradicional",
+      "price": "12,90",
+      "description": "Lanche tradicional do interior de São Paulo",
+      "available": false,
+      "id": 4
     }
   ]
 }
